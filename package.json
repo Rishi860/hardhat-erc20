@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "hardhat": "^2.10.0"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-dev.22"
+  }
+}
